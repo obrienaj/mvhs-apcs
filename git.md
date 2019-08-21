@@ -21,3 +21,4 @@
 
 * status - tell me what files have been stages or cimmited
 * add - add a file to the stage
+* git commit -m - "Present tense description of what happened"
