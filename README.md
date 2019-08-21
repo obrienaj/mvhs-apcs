@@ -27,4 +27,4 @@
 ## Problems
 
 * commit without -m message - stuck in vim - esc :wq
-* mistyped message -m
+* mistyped message -- amend -m "New message"
